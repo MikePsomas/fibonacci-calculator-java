@@ -1,22 +1,8 @@
-<<<<<<< HEAD
-## Getting Started
+# Fibonacci Calculator in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This program calculates and prints the Fibonacci series up to a user-specified number of terms.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# fibonacci-calculator-java
->>>>>>> 853f2dfc0464459a7b8f1c78f352a75bd361fc31
+## Features:
+- Takes user input for the number of terms to calculate.
+- Uses an iterative approach to calculate the Fibonacci sequence.
+- Prints the Fibonacci sequence up to the inputted number of terms.
